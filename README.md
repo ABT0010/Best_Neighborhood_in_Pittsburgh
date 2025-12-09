@@ -4,7 +4,9 @@ The Burgh Explorers
 Members:
 1. Abel Sebhatu - ATS187@pitt.edu
 2. Sharon Joseph - SCJ29@pitt.edu
+
 We are using datas obtained from WPRDC to find the best neighborhood in Pittsburgh.
+
 # Datas used
 - For Number of POGOH stations → https://data.wprdc.org/dataset/station-locations
 - For Public School locations → "https://data.wprdc.org/dataset/pittsburgh-public-school-locations"
